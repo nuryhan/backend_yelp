@@ -12,6 +12,7 @@
 /build
 
 # misc
+#test change in gitignore
 .DS_Store
 .env
 .env.development.local
